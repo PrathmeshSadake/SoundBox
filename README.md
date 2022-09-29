@@ -1,6 +1,6 @@
 # Project SoundBox
 
-Develop an elegant React.js Music Application. 
+Music player application developed using React.js, Tailwind CSS, Redux and Shazam API. It has modern homepage with an exceptional design where you can choose a genre and get the top songs you can see top charts and top artists on the right side a fully fledged Spotify like music player that allows you to go to the previous song and next song repeat shuffle fast forward change volume and more.
 
 ## System Requirements
 
